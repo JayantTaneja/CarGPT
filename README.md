@@ -59,6 +59,8 @@ Following are some of the motivations behind this project:
 ### Introducing CarGPT
 
 
+https://github.com/JayantTaneja/CarGPT/assets/79043865/8ab7d5e2-48c9-402c-ba6e-077d8cef8f1b
+
 ---
 
 ### Flow Diagram
